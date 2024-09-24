@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input, select, button {
+  margin-bottom: 10px;
+  display: block;
+}
+
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #333;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+.texto-destacado {
+  color: blue;
+  font-weight: bold;
+}
+
+#imagen-prueba {
+  margin-top: 20px;
+  width: 200px;
+  height: auto;
+}
