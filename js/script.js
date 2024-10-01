@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
       esValido = false;
       inputTexto.classList.add('is-invalid');
       inputTexto.classList.remove('is-valid');
-      inputTexto.nextElementSibling.textContent = 'El texto debe tener más de 3 caracteres.';
+      inputTexto.nextElementSibling.textContent = 'efqjfqljfqj.';
     } else {
       inputTexto.classList.remove('is-invalid');
       inputTexto.classList.add('is-valid');
